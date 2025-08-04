@@ -18,7 +18,7 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 - 🔭 I’m currently working on AI,Ml & Agentic AI.
 - 🌱 Actively participating in coding competitions & hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems.
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 - 🔭 I’m currently working on **different LLM Projects.**
 - 👯 I’m looking to collaborate on **tech things.**
 - 🤝 I’m looking for help with **DSA.**
