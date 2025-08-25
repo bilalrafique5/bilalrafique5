@@ -7,6 +7,10 @@
 <div align="center">
   <a href="https://profile-summary-for-github.com/user/safwaahmad"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
+    
+---
+<a href="https://gitroll.io/profile/uAijnqpn4OLR1PUwNnUgd8wKewL42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAijnqpn4OLR1PUwNnUgd8wKewL42?theme=light" alt="GitRoll Profile Badge"/></a>
+---
 
 
 # About Me💬:
@@ -28,7 +32,8 @@ Hello! I'm Muhammad Safwan Ahmad Saffi, a Computer Science Student based in Paki
 - 💬 Ask me about **Python, DSA, Data Science, GenAI.**
 - 📫 How to reach me **safwanahmadsaffi836@gmail.com**
 - ⚡ Fun fact **Good Athlete and Passionate Programmer.**
-#
+
+---
 
 <div align="center"> 
 <a href="https://www.linkedin.com/in/safwan-ahmad-saffi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
