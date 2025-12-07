@@ -27,7 +27,7 @@ Let's collaborate and build amazing projects! 💻
 - 🌱 Participating in coding competitions & hackathons.
 - 🥅 2025 Goals: Contribute more to Open Source projects.
 - 👯 I’m looking to collaborate on **tech projects.**
-- 🤝 I’m open to help with **DSA, ML, and AI projects.**
+- 🤝 I’m open to help with **RAG, DS, ML, and AI projects.**
 - 👨‍💻 Portfolio: [https://github.com/bilalrafique5/My-Portfolio](https://github.com/bilalrafique5/My-Portfolio)
 - 💬 Ask me about **Python, RAG, Data Science, ML, AI, LangChain, LangSmith, FastAPI.**
 - 📫 How to reach me: **chbilalrafique2@gmail.com**
