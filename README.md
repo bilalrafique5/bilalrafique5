@@ -25,7 +25,7 @@ Let's collaborate and build amazing projects! 💻
 
 - 🔭 I’m currently working on **Data Science, ML, AI, and real-time ML models**.
 - 🌱 Participating in coding competitions & hackathons.
-- 🥅 2025 Goals: Contribute more to Open Source projects.
+- 🥅 2026 Goals: Contribute more to Open Source projects.
 - 👯 I’m looking to collaborate on **tech projects.**
 - 🤝 I’m open to help with **RAG, DS, ML, and AI projects.**
 - 👨‍💻 Portfolio: [https://github.com/bilalrafique5/My-Portfolio](https://github.com/bilalrafique5/My-Portfolio)
